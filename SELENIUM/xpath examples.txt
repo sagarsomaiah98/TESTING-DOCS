@@ -1,0 +1,27 @@
+
+Absolute XPath: /html/body/div[1]/div/div[2]/header/div/div[2]/a/img
+
+Relative XPath: //*[@id="block-perfecto-main-menu"]/ul/li[6]/a
+
+XPath=//*[contains(@id,'Name')
+//h4/a[contains(text(),'SAP M')]"
+
+
+//input[@placeholder ='Full Name' or @type = 'text']
+
+
+//a[Contains(text(),'Forgot your password')]
+
+//input[contains(text(),'
+
+
+//tag_name[@name = 'Name value' and @id = ‘ID value’]
+
+Xpath=//*[@type='submit' OR @name='btnReset']
+
+Xpath=//input[@type='submit' and @name='btnLogin']
+
+
+//input[contains(@id, "userN")]
+//input[starts-with(@placeholder,"Fu")]
+//label[text()=”Email”]
